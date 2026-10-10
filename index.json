@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-two-factor-auth",
+  "versions": [
+    {
+      "commit": "a718bc7b822fb36587b2e1d2fb96bf065cca842b",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:35:50.695446+00:00"
+    }
+  ]
+}
