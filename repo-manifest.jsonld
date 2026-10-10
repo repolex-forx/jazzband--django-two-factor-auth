@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-two-factor-auth/commit/a718bc7b822fb36587b2e1d2fb96bf065cca842b",
       "git:hexsha": "a718bc7b822fb36587b2e1d2fb96bf065cca842b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-two-factor-auth/commit/e5557d757b65ead37a02c79faefe2265405474a9",

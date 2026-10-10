@@ -1,0 +1,7 @@
+[2026-10-10T19:34:00Z] === AST ITERATION 1 START | repo=jazzband/django-two-factor-auth sha=a718bc7b ===
+[2026-10-10T19:34:00Z] [iter=1] PHASE START: ast repo=jazzband/django-two-factor-auth sha=a718bc7b
+[2026-10-10T19:34:00Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T19:34:40Z] [iter=1] AST chunks built count=1 triples=366508
+[2026-10-10T19:34:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a718bc7b822fb36587b2e1d2fb96bf065cca842b/.complete
+[2026-10-10T19:34:40Z] [iter=1] PHASE END: ast elapsed_s=39 elapsed_min=0.7
+[2026-10-10T19:34:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
